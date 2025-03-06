@@ -1,0 +1,19 @@
+pack_name = "fabric1.21.4"
+mc_version = "1.21.4"
+modloader = "Fabric"
+default_providers = ["Modrinth"]
+forbidden_mods = []
+
+[mods.lithium]
+name = "lithium"
+version = "*"
+
+[files."./server/server.properties"]
+target_path = "server.properties"
+side = "Server"
+apply_policy = "Always"
+
+[files."./server/whitelist.json"]
+target_path = "whitelist.json"
+side = "Server"
+apply_policy = "Always"
