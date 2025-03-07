@@ -96,6 +96,19 @@ name = "cloth-config"
 version = "17.0.144+fabric"
 providers = ["Modrinth"]
 
+[mods.c2me-fabric]
+version = "0.3.1.2+rc.1.0+1.21.4"
+server_side = true
+client_side = true
+
+[[mods.c2me-fabric.source]]
+
+[mods.c2me-fabric.source.Download]
+url = "https://cdn.modrinth.com/data/VSNURh3q/versions/gz43iXry/c2me-fabric-mc1.21.4-0.3.1.2%2Brc.1.0.jar"
+sha1 = "baab30b2c4507dcbf49e86925b39fc5dd9bc03ef"
+sha512 = "fa607e7fc1b2e649dccc85cc27fb9e5835e030c4b5dcfad0fbb0daf3beed9759165e762690cb91df0134b8dfbd05381a5031b9536a6901ab8745f2102acf2719"
+filename = "c2me-fabric-mc1.21.4-0.3.1.2+rc.1.0.jar"
+
 [mods.carpet]
 version = "1.4.161"
 server_side = true

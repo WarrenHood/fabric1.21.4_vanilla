@@ -30,6 +30,10 @@ version = "*"
 server_side = false
 client_side = true
 
+[mods.c2me-fabric]
+name = "c2me-fabric"
+version = "*"
+
 [mods.carpet]
 name = "carpet"
 version = "*"
