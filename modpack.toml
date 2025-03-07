@@ -106,6 +106,12 @@ version = "*"
 server_side = true
 client_side = true
 
+[mods.raknetify]
+name = "raknetify"
+version = "*"
+server_side = true
+client_side = true
+
 [mods.rei]
 name = "rei"
 version = "*"

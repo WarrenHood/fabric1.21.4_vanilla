@@ -419,6 +419,19 @@ name = "forge-config-api-port"
 version = "v21.4.1-1.21.4-Fabric"
 providers = ["Modrinth"]
 
+[mods.raknetify]
+version = "0.1.0+alpha.5.160"
+server_side = true
+client_side = true
+
+[[mods.raknetify.source]]
+
+[mods.raknetify.source.Download]
+url = "https://cdn.modrinth.com/data/5IovSY3u/versions/mJdXiYyk/raknetify-fabric-0.1.0%2Balpha.5.160-all.jar"
+sha1 = "d14a803358ce86f7954a792d27ed636c734006aa"
+sha512 = "9129b3e8f67d7b0a48bba15e75b59f23b842f054eb47868e9b134f40542457b4a3dc2dd0bf27101e3032a527d4968a6d404751cbaa061f0bf44cf85dfa25770b"
+filename = "raknetify-fabric-0.1.0+alpha.5.160-all.jar"
+
 [mods.rei]
 version = "18.0.800+fabric"
 server_side = false
