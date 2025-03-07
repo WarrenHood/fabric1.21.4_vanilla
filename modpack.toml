@@ -4,9 +4,148 @@ modloader = "Fabric"
 default_providers = ["Modrinth"]
 forbidden_mods = []
 
+[mods.advanced-backups]
+name = "advanced-backups"
+version = "*"
+
+[mods.alternate-current]
+name = "alternate-current"
+version = "*"
+server_side = true
+client_side = true
+
+[mods.appleskin]
+name = "appleskin"
+version = "*"
+
+[mods.better-fabric-console]
+name = "better-fabric-console"
+version = "*"
+server_side = true
+client_side = false
+
+[mods.betterf3]
+name = "betterf3"
+version = "*"
+server_side = false
+client_side = true
+
+[mods.carpet]
+name = "carpet"
+version = "*"
+server_side = true
+client_side = false
+
+[mods.continuity]
+name = "continuity"
+version = "*"
+server_side = false
+client_side = true
+
+[mods.controlling]
+name = "controlling"
+version = "*"
+server_side = false
+client_side = true
+
+[mods.ebe]
+name = "ebe"
+version = "*"
+server_side = false
+client_side = true
+
+[mods.invmove]
+name = "invmove"
+version = "*"
+server_side = false
+client_side = true
+
+[mods.iris]
+name = "iris"
+version = "*"
+server_side = false
+client_side = true
+
+[mods.jade]
+name = "jade"
+version = "*"
+server_side = false
+client_side = true
+
+[mods.journeymap]
+name = "journeymap"
+version = "*"
+server_side = false
+client_side = true
+
+[mods.leaves-be-gone]
+name = "leaves-be-gone"
+version = "*"
+server_side = true
+client_side = false
+
 [mods.lithium]
 name = "lithium"
 version = "*"
+
+[mods.modmenu]
+name = "modmenu"
+version = "*"
+server_side = false
+client_side = true
+
+[mods.mouse-tweaks]
+name = "mouse-tweaks"
+version = "*"
+server_side = false
+client_side = true
+
+[mods.noisium]
+name = "noisium"
+version = "*"
+server_side = true
+client_side = true
+
+[mods.rei]
+name = "rei"
+version = "*"
+server_side = false
+client_side = true
+
+[mods.resourcify]
+name = "resourcify"
+version = "*"
+server_side = false
+client_side = true
+
+[mods.sodium]
+name = "sodium"
+version = "*"
+server_side = false
+client_side = true
+
+[mods.sodium-extra]
+name = "sodium-extra"
+version = "*"
+server_side = false
+client_side = true
+
+[mods.spark]
+name = "spark"
+version = "*"
+server_side = true
+client_side = true
+
+[mods.terralith]
+name = "terralith"
+version = "*"
+server_side = true
+client_side = true
+
+[files."./server/config/AdvancedBackups.properties"]
+target_path = "config/AdvancedBackups.properties"
+side = "Server"
+apply_policy = "Always"
 
 [files."./server/server.properties"]
 target_path = "server.properties"

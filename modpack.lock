@@ -1,3 +1,321 @@
+[mods.advanced-backups]
+version = "3.7.1"
+server_side = true
+client_side = false
+
+[[mods.advanced-backups.source]]
+
+[mods.advanced-backups.source.Download]
+url = "https://cdn.modrinth.com/data/Jrmoreqs/versions/g1B8uoKN/AdvancedBackups-fabric-1.21.2-3.7.1.jar"
+sha1 = "59e4a4d13a0462bfcad6c66fcf5259c43ed8bde5"
+sha512 = "31f4106ca36c0512857351ce1d025e0ca60aad4af274e83a8f286121d56a010cb9cd3a35f72983cfa8b54476bd62d16076f250f257283294053bd74bea6b17c4"
+filename = "AdvancedBackups-fabric-1.21.2-3.7.1.jar"
+
+[mods.alternate-current]
+version = "mc1.21.2-1.9.1"
+server_side = true
+client_side = true
+
+[[mods.alternate-current.source]]
+
+[mods.alternate-current.source.Download]
+url = "https://cdn.modrinth.com/data/r0v8vy1s/versions/DwfiGUVU/alternate-current-mc1.21.2-1.9.1.jar"
+sha1 = "a6f82f98db09439b166863f6f307a02651d8a7c3"
+sha512 = "8ed44291a8aed3e1c9750cfce85e0de679daeff7c3b1bc8f6329b41ba4570442750b8039d2d5c79c32655fc9372ea35843c60805438d33888b30e28731c39137"
+filename = "alternate-current-mc1.21.2-1.9.1.jar"
+
+[mods.appleskin]
+version = "3.0.6+mc1.21.3"
+server_side = true
+client_side = true
+
+[[mods.appleskin.source]]
+
+[mods.appleskin.source.Download]
+url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/cHQjeYVS/appleskin-fabric-mc1.21.3-3.0.6.jar"
+sha1 = "5bf91b0df04e27b94b8dff36aa782cc9f44fc2f6"
+sha512 = "b572a3eea43e0084819c88dd7fac6a0a5d5555d9b73df927b97f29764f281cadbfc8cc5f8f6b6920f1677bcec87b411e5a582d305a191735ad8d60fc90900900"
+filename = "appleskin-fabric-mc1.21.3-3.0.6.jar"
+
+[[mods.appleskin.deps]]
+name = "fabric-api"
+version = "0.118.0+1.21.4"
+providers = ["Modrinth"]
+
+[mods.architectury-api]
+version = "15.0.3+fabric"
+server_side = true
+client_side = true
+
+[[mods.architectury-api.source]]
+
+[mods.architectury-api.source.Download]
+url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/73nlw3WM/architectury-15.0.3-fabric.jar"
+sha1 = "caa5462498018160de9397dd2558f27922b85751"
+sha512 = "6acc7cfccfc6e93fd8c1895fb2c489cbabd27265f38f7cbad98ddaab2cb2e6d1601633bd12cf26fc0bb100a87949ee06b872f333cf7b8490cccc0082ac586dcb"
+filename = "architectury-15.0.3-fabric.jar"
+
+[[mods.architectury-api.deps]]
+name = "fabric-api"
+version = "0.118.0+1.21.4"
+providers = ["Modrinth"]
+
+[mods.better-fabric-console]
+version = "1.2.2"
+server_side = true
+client_side = false
+
+[[mods.better-fabric-console.source]]
+
+[mods.better-fabric-console.source.Download]
+url = "https://cdn.modrinth.com/data/Y8o1j1Sf/versions/3d1g5aTY/better-fabric-console-mc1.21.4-1.2.2.jar"
+sha1 = "79e07135d6bcc1441459351dcb7366130e2b5471"
+sha512 = "aa7ea5e6fad06927462655331985e58d270bf2f6ac31a9c685830e8d4249c6a3de51f2a2e63ddef150432040448926c3238d3bab4722a26733c5e7db64359563"
+filename = "better-fabric-console-mc1.21.4-1.2.2.jar"
+
+[[mods.better-fabric-console.deps]]
+name = "fabric-api"
+version = "0.118.0+1.21.4"
+providers = ["Modrinth"]
+
+[mods.betterf3]
+version = "13.0.0"
+server_side = false
+client_side = true
+
+[[mods.betterf3.source]]
+
+[mods.betterf3.source.Download]
+url = "https://cdn.modrinth.com/data/8shC1gFX/versions/729ec3Jf/BetterF3-13.0.0-Fabric-1.21.4.jar"
+sha1 = "c39ed931c6930ffdb1c65138ad94fb8f9b590808"
+sha512 = "aab1fc1419e534dfb98b1b33cd07df611f63d43e8975a8fc85b3f448c29bac75e35b8b9bf996689e7fce28e617e436078d244a63b6bd01cb3ae415139abb63c3"
+filename = "BetterF3-13.0.0-Fabric-1.21.4.jar"
+
+[[mods.betterf3.deps]]
+name = "cloth-config"
+version = "17.0.144+fabric"
+providers = ["Modrinth"]
+
+[mods.carpet]
+version = "1.4.161"
+server_side = true
+client_side = false
+
+[[mods.carpet.source]]
+
+[mods.carpet.source.Download]
+url = "https://cdn.modrinth.com/data/TQTTVgYE/versions/aVB2lYQQ/fabric-carpet-1.21.4-1.4.161%2Bv241203.jar"
+sha1 = "41d979ea73de8cd42383eb461d45f2a434573c4b"
+sha512 = "fd42f43ae89af7553ee1b8240efda178a05f5b0f45fe359651cea468cfd11fe24996e991c338522f4a17b07b917e9ebda4a5cfa8551fca280c81e536b240a96c"
+filename = "fabric-carpet-1.21.4-1.4.161+v241203.jar"
+
+[mods.cloth-config]
+version = "17.0.144+fabric"
+server_side = true
+client_side = true
+
+[[mods.cloth-config.source]]
+
+[mods.cloth-config.source.Download]
+url = "https://cdn.modrinth.com/data/9s6osm5g/versions/TJ6o2sr4/cloth-config-17.0.144-fabric.jar"
+sha1 = "63a1a3b25c642f5a745dfcc9bdc0841660f560af"
+sha512 = "ecc59da51149250284b0752475c7b328e0b0325888948391597afc638d6e67fa436297af12d2067376de0098ffa6ca86aa3b8d6011356c179222404c701c6345"
+filename = "cloth-config-17.0.144-fabric.jar"
+
+[mods.continuity]
+version = "3.0.0+1.21.4"
+server_side = false
+client_side = true
+
+[[mods.continuity.source]]
+
+[mods.continuity.source.Download]
+url = "https://cdn.modrinth.com/data/1IjD5062/versions/esC1Vejm/continuity-3.0.0%2B1.21.4.jar"
+sha1 = "7b22feac8ca586a8c371324cb83abe5546b22d45"
+sha512 = "1f8102be0e545b3a19aba8b63942a2e98ccce7b714d40f33471da77633015491b7cc7e86d2d5adc7a361f7586f1e30e7e5e591deca2d7ebacd9e7e97055c8cca"
+filename = "continuity-3.0.0+1.21.4.jar"
+
+[[mods.continuity.deps]]
+name = "fabric-api"
+version = "0.118.0+1.21.4"
+providers = ["Modrinth"]
+
+[mods.controlling]
+version = "22.0.4"
+server_side = false
+client_side = true
+
+[[mods.controlling.source]]
+
+[mods.controlling.source.Download]
+url = "https://cdn.modrinth.com/data/xv94TkTM/versions/5FrtTh3U/Controlling-fabric-1.21.4-22.0.4.jar"
+sha1 = "3566a97338ae3e3b73f90931e361fdfe17b55e6c"
+sha512 = "b7820eb8573c01ed076c48ea8df25dc18f27a28432680659e88b868e69ce9fc8c0dedc6f8a742c80bb9816cffde4494c643f8c758e65a62a99e8adb6031a8a8d"
+filename = "Controlling-fabric-1.21.4-22.0.4.jar"
+
+[[mods.controlling.deps]]
+name = "fabric-api"
+version = "0.118.0+1.21.4"
+providers = ["Modrinth"]
+
+[[mods.controlling.deps]]
+name = "searchables"
+version = "1.0.3"
+providers = ["Modrinth"]
+
+[mods.ebe]
+version = "0.11.3+1.21.4"
+server_side = false
+client_side = true
+
+[[mods.ebe.source]]
+
+[mods.ebe.source.Download]
+url = "https://cdn.modrinth.com/data/OVuFYfre/versions/YokFoILZ/enhancedblockentities-0.11.3%2B1.21.4.jar"
+sha1 = "261b0e79ffbb79f9b708827333bd745620ebbec0"
+sha512 = "c35bd51b54132abca669341cf717c4218e7be0e639d7b85f977d50fe613121a9fdf514c27a0595b58911363cb1e5226732275dc51f59f598345d19051d0a948b"
+filename = "enhancedblockentities-0.11.3+1.21.4.jar"
+
+[[mods.ebe.deps]]
+name = "fabric-api"
+version = "0.118.0+1.21.4"
+providers = ["Modrinth"]
+
+[mods.fabric-api]
+version = "0.118.0+1.21.4"
+server_side = true
+client_side = true
+
+[[mods.fabric-api.source]]
+
+[mods.fabric-api.source.Download]
+url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/ZNwYCTsk/fabric-api-0.118.0%2B1.21.4.jar"
+sha1 = "ca9702e27078db7c2c9d28899a2c4bd136bd5e12"
+sha512 = "1e0d31b6663dc2c7be648f3a5a9cf7b698b9a0fd0f7ae16d1d3f32d943d7c5205ff63a4f81b0c4e94a8997482cce026b7ca486e99d9ce35ac069aeb29b02a30d"
+filename = "fabric-api-0.118.0+1.21.4.jar"
+
+[mods.fabric-language-kotlin]
+version = "1.13.1+kotlin.2.1.10"
+server_side = true
+client_side = true
+
+[[mods.fabric-language-kotlin.source]]
+
+[mods.fabric-language-kotlin.source.Download]
+url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/476dzMG5/fabric-language-kotlin-1.13.1%2Bkotlin.2.1.10.jar"
+sha1 = "b28cc99b01aef86d0d6ca3ea7f468512bd0595c4"
+sha512 = "8e3609ef53a731c5509b304397e7fd4e37f2bbb4353b0d6234e74438846f0464743022f3339ba4f5acf21b023c80420ce59c194c1dfb11aeb79caffa6f842fb6"
+filename = "fabric-language-kotlin-1.13.1+kotlin.2.1.10.jar"
+
+[mods.forge-config-api-port]
+version = "v21.4.1-1.21.4-Fabric"
+server_side = true
+client_side = true
+
+[[mods.forge-config-api-port.source]]
+
+[mods.forge-config-api-port.source.Download]
+url = "https://cdn.modrinth.com/data/ohNO6lps/versions/lTrPTmMK/ForgeConfigAPIPort-v21.4.1-1.21.4-Fabric.jar"
+sha1 = "3dbbaddb4df5533b7b806c82c27cfb389f5bef54"
+sha512 = "a5f84411c0b7b9e5e8d267e268183fcb2e46df955fd976ed3f4bc1fd45249ab5f902a23ab93cbdc45d5bb409a5d570e7f7ec9794ca74f4b6115bf3e95d29914b"
+filename = "ForgeConfigAPIPort-v21.4.1-1.21.4-Fabric.jar"
+
+[[mods.forge-config-api-port.deps]]
+name = "fabric-api"
+version = "0.118.0+1.21.4"
+providers = ["Modrinth"]
+
+[mods.invmove]
+version = "0.9.0+1.21.4-fabric"
+server_side = false
+client_side = true
+
+[[mods.invmove.source]]
+
+[mods.invmove.source.Download]
+url = "https://cdn.modrinth.com/data/REfW2AEX/versions/Km5p4Rik/InvMove-0.9.0%2B1.21.4-Fabric.jar"
+sha1 = "3f1ddf99bc33419497891ec2a4a38a67673392fc"
+sha512 = "a200d3c19656965cb114203062d54170a4effa252672466fa692b6e0f1068f942c2daccb7d3531d802f1dcca8daf068524673ad070e890c51c05dea2259aae48"
+filename = "InvMove-0.9.0+1.21.4-Fabric.jar"
+
+[[mods.invmove.deps]]
+name = "cloth-config"
+version = "17.0.144+fabric"
+providers = ["Modrinth"]
+
+[mods.iris]
+version = "1.8.8+1.21.4-fabric"
+server_side = false
+client_side = true
+
+[[mods.iris.source]]
+
+[mods.iris.source.Download]
+url = "https://cdn.modrinth.com/data/YL57xq9U/versions/Ca054sTe/iris-fabric-1.8.8%2Bmc1.21.4.jar"
+sha1 = "54f7ab6450530bdca2ba44887b53458f78a256ef"
+sha512 = "5296c4b0c0be6d5259b985577154c02e6534818465205e6995b5229b26414b423d333199152693118a897f31312e4de051abe28df7d0dd0950c8b649e54a50a0"
+filename = "iris-fabric-1.8.8+mc1.21.4.jar"
+
+[[mods.iris.deps]]
+name = "sodium"
+version = "mc1.21.4-0.6.10-fabric"
+providers = ["Modrinth"]
+
+[mods.jade]
+version = "17.2.2+fabric"
+deps = []
+server_side = false
+client_side = true
+
+[[mods.jade.source]]
+
+[mods.jade.source.Download]
+url = "https://cdn.modrinth.com/data/nvQzSEkH/versions/sSHUBFoq/Jade-1.21.4-Fabric-17.2.2.jar"
+sha1 = "99d87c4f2913f52c2458415c4e37d019b65991d9"
+sha512 = "dbe2ce335170c7a7079595c6341188ef07f54704faab7e3919a7c24130d3b25f321425c5f28107ea706f8d7e47e1d49147882ab05c35cbe6af7ac9d371ca68e7"
+filename = "Jade-1.21.4-Fabric-17.2.2.jar"
+
+[mods.journeymap]
+version = "1.21.4-6.0.0-beta.39+fabric"
+server_side = false
+client_side = true
+
+[[mods.journeymap.source]]
+
+[mods.journeymap.source.Download]
+url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/xFibBhft/journeymap-fabric-1.21.4-6.0.0-beta.39.jar"
+sha1 = "87ec738a35e8592908c87d2c30a7907f09a4bd81"
+sha512 = "cfb5c2a3a7500ef393615ba5e1df28d6e85c95140d53bead9728b35385825f02a7ec642948bea4364b2f946959eec9a298eda26caa3c9c922cc605dd13a9e74f"
+filename = "journeymap-fabric-1.21.4-6.0.0-beta.39.jar"
+
+[mods.leaves-be-gone]
+version = "v21.4.0-1.21.4-Fabric"
+server_side = true
+client_side = false
+
+[[mods.leaves-be-gone.source]]
+
+[mods.leaves-be-gone.source.Download]
+url = "https://cdn.modrinth.com/data/AVq17PqV/versions/rzQ6Hrtt/LeavesBeGone-v21.4.0-1.21.4-Fabric.jar"
+sha1 = "4e62c5a24259d85f0aa7a151f1dd32667d031ab7"
+sha512 = "39db7b5c60129b08d47bbac0f37112fc67aa6cb81699aec3374b906ab04020ca124bd40660cadff6e50d35bcba8090ea5cb032fde8ecee912657d6995a3057a2"
+filename = "LeavesBeGone-v21.4.0-1.21.4-Fabric.jar"
+
+[[mods.leaves-be-gone.deps]]
+name = "fabric-api"
+version = "0.118.0+1.21.4"
+providers = ["Modrinth"]
+
+[[mods.leaves-be-gone.deps]]
+name = "forge-config-api-port"
+version = "v21.4.1-1.21.4-Fabric"
+providers = ["Modrinth"]
+
+[[mods.leaves-be-gone.deps]]
+name = "puzzles-lib"
+version = "v21.4.10-1.21.4-Fabric"
+providers = ["Modrinth"]
+
 [mods.lithium]
 version = "mc1.21.4-0.14.8-fabric"
 server_side = true
@@ -10,3 +328,219 @@ url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/kLc5Oxr4/lithium-fabric-0
 sha1 = "0ce5b620b9dc469f83c5e044196fdeb8da0932d3"
 sha512 = "ea0d7a4aea29b32527245d933227c85d0606e17c88cc05ed9918a1b966f22011961bfa85e33ab318e729f1ac3e69217d37709413bf70d1dc5a3acc9fd75ef317"
 filename = "lithium-fabric-0.14.8+mc1.21.4.jar"
+
+[mods.modmenu]
+version = "13.0.2"
+server_side = false
+client_side = true
+
+[[mods.modmenu.source]]
+
+[mods.modmenu.source.Download]
+url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/qPUMDJX6/modmenu-13.0.2.jar"
+sha1 = "ef2512f29363f3a8d3a9cb92ba43eca3c689b8c4"
+sha512 = "7be7ea40934865ae71c2805ac228b2cd808d1f0dd1ec361e10ab5e84d881a3abd3f427d840153f89a501a7f08198781c88f17811c2b6373a3d30b5696c3d073d"
+filename = "modmenu-13.0.2.jar"
+
+[[mods.modmenu.deps]]
+name = "fabric-api"
+version = "0.118.0+1.21.4"
+providers = ["Modrinth"]
+
+[[mods.modmenu.deps]]
+name = "placeholder-api"
+version = "2.5.2+1.21.3"
+providers = ["Modrinth"]
+
+[mods.mouse-tweaks]
+version = "1.21.3-2.27-fabric"
+server_side = false
+client_side = true
+
+[[mods.mouse-tweaks.source]]
+
+[mods.mouse-tweaks.source.Download]
+url = "https://cdn.modrinth.com/data/aC3cM3Vq/versions/m8rwZENW/MouseTweaks-fabric-mc1.21.3-2.27.jar"
+sha1 = "8267df3b46152116a252d085da525fb84400a95a"
+sha512 = "69470fd4570150042cca6bec420223f9c691ede8434da4ae3004c46d6a07a6b603d93b5a17634549a6283dd57c215026bb62ff32cf2ab098f3cb125f3f4d8af5"
+filename = "MouseTweaks-fabric-mc1.21.3-2.27.jar"
+
+[[mods.mouse-tweaks.deps]]
+name = "fabric-api"
+version = "0.118.0+1.21.4"
+providers = ["Modrinth"]
+
+[mods.noisium]
+version = "2.5.0+mc1.21.4"
+server_side = true
+client_side = true
+
+[[mods.noisium.source]]
+
+[mods.noisium.source.Download]
+url = "https://cdn.modrinth.com/data/KuNKN7d2/versions/9NHdQfkN/noisium-fabric-2.5.0%2Bmc1.21.4.jar"
+sha1 = "4adbf542d5dd586fe8a458202bfeebd757dfd2f6"
+sha512 = "3119f9325a9ce13d851d4f6eddabade382222c80296266506a155f8e12f32a195a00a75c40a8d062e4439f5a7ef66f3af9a46f9f3b3cb799f3b66b73ca2edee8"
+filename = "noisium-fabric-2.5.0+mc1.21.4.jar"
+
+[mods.placeholder-api]
+version = "2.5.2+1.21.3"
+server_side = true
+client_side = true
+
+[[mods.placeholder-api.source]]
+
+[mods.placeholder-api.source.Download]
+url = "https://cdn.modrinth.com/data/eXts2L7r/versions/eeN3FuMY/placeholder-api-2.5.2%2B1.21.3.jar"
+sha1 = "841b1ef57880fc0f94a22ab268b737c3830b5595"
+sha512 = "06db18ada7973bd8cbe316faeebd25d89d79820da951208cc2ec69eb4058379d4e0c0233799d7043b5a19b62248f6a4d5f7031c110066fdf5d335e29385e3853"
+filename = "placeholder-api-2.5.2+1.21.3.jar"
+
+[mods.puzzles-lib]
+version = "v21.4.10-1.21.4-Fabric"
+server_side = true
+client_side = true
+
+[[mods.puzzles-lib.source]]
+
+[mods.puzzles-lib.source.Download]
+url = "https://cdn.modrinth.com/data/QAGBst4M/versions/V4N99PoP/PuzzlesLib-v21.4.10-1.21.4-Fabric.jar"
+sha1 = "846bf7de11014534b27af5b56893c0dae47027eb"
+sha512 = "9a6f14e4ebe574b6f0916b6e824f05b3bf5025c62282f0c65b8c4e1ba6c2ad976c1d0aa5d8431fa8527975205917e7ebdd524b62484d3964b12d2f044fe60f71"
+filename = "PuzzlesLib-v21.4.10-1.21.4-Fabric.jar"
+
+[[mods.puzzles-lib.deps]]
+name = "fabric-api"
+version = "0.118.0+1.21.4"
+providers = ["Modrinth"]
+
+[[mods.puzzles-lib.deps]]
+name = "forge-config-api-port"
+version = "v21.4.1-1.21.4-Fabric"
+providers = ["Modrinth"]
+
+[mods.rei]
+version = "18.0.800+fabric"
+server_side = false
+client_side = true
+
+[[mods.rei.source]]
+
+[mods.rei.source.Download]
+url = "https://cdn.modrinth.com/data/nfn13YXA/versions/EJdFrEjD/RoughlyEnoughItems-18.0.800-fabric.jar"
+sha1 = "f35a4159ccd14c8d30b489cd2fefa70c7d3f2f61"
+sha512 = "dc31fafc7cbde253a9fd3001da47c95611a9890cf594cdd57627926a9ee1c744651b1afb05e340d373ffbac7084ea903ed5c5416480c6218ecb800d1cd3402ec"
+filename = "RoughlyEnoughItems-18.0.800-fabric.jar"
+
+[[mods.rei.deps]]
+name = "architectury-api"
+version = "15.0.3+fabric"
+providers = ["Modrinth"]
+
+[[mods.rei.deps]]
+name = "cloth-config"
+version = "17.0.144+fabric"
+providers = ["Modrinth"]
+
+[[mods.rei.deps]]
+name = "fabric-api"
+version = "0.118.0+1.21.4"
+providers = ["Modrinth"]
+
+[mods.resourcify]
+version = "1.7.1"
+server_side = false
+client_side = true
+
+[[mods.resourcify.source]]
+
+[mods.resourcify.source.Download]
+url = "https://cdn.modrinth.com/data/RLzHAoZe/versions/RQxVWUsZ/Resourcify%20%281.21.3-4-fabric%29-1.7.1.jar"
+sha1 = "4cd46b1f3c788e3e5783aff979d8c108a05f28ed"
+sha512 = "ab1c040933e18a665784fe489442014c642b11c8e41529009fae003bbef6406c253527b57b2ccc5b6e7213d02b07466e1e422c15dcb6673b5ffff1ba182c2199"
+filename = "Resourcify (1.21.3-4-fabric)-1.7.1.jar"
+
+[[mods.resourcify.deps]]
+name = "fabric-api"
+version = "0.118.0+1.21.4"
+providers = ["Modrinth"]
+
+[[mods.resourcify.deps]]
+name = "fabric-language-kotlin"
+version = "1.13.1+kotlin.2.1.10"
+providers = ["Modrinth"]
+
+[mods.searchables]
+version = "1.0.3"
+server_side = false
+client_side = true
+
+[[mods.searchables.source]]
+
+[mods.searchables.source.Download]
+url = "https://cdn.modrinth.com/data/fuuu3xnx/versions/Q98vtyfZ/Searchables-fabric-1.21.4-1.0.3.jar"
+sha1 = "476f465c1bc8c0690e4ac2a0e5b41edb407f19fa"
+sha512 = "b1a998934a4067fca033b1d285ac18d822443ed3919ce323129ade1a3fac8489efb2d500af8dc783af2848e24905198c1db88d5c6a2e78f0f28389545b398186"
+filename = "Searchables-fabric-1.21.4-1.0.3.jar"
+
+[[mods.searchables.deps]]
+name = "fabric-api"
+version = "0.118.0+1.21.4"
+providers = ["Modrinth"]
+
+[mods.sodium]
+version = "mc1.21.4-0.6.10-fabric"
+server_side = false
+client_side = true
+
+[[mods.sodium.source]]
+
+[mods.sodium.source.Download]
+url = "https://cdn.modrinth.com/data/AANobbMI/versions/FRXt5xaI/sodium-fabric-0.6.10%2Bmc1.21.4.jar"
+sha1 = "b4ce6db38fd287ce6af644ee9f71a5318c52f42e"
+sha512 = "e6213b74dc3ba15387040dadd383f0c69999f365c9bf492893c52f0d74090b577e4ce03c52f2a39cd9d680dd32aa6228aae268dabcd0c2478908195c56d975c9"
+filename = "sodium-fabric-0.6.10+mc1.21.4.jar"
+
+[mods.sodium-extra]
+version = "mc1.21.4-0.6.1+fabric"
+server_side = false
+client_side = true
+
+[[mods.sodium-extra.source]]
+
+[mods.sodium-extra.source.Download]
+url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/f4TfteNb/sodium-extra-fabric-0.6.1%2Bmc1.21.4.jar"
+sha1 = "c3bd0d2121653fec3c0f82a841d88e85e87f9796"
+sha512 = "84f33cff29ecdb535cc65d836839003c8739765e0a464e011486ceaf744693b5d40f36c4ea4b117f7f00139c1dbf1b3b0e51170f4055afa03567e4079358a0e9"
+filename = "sodium-extra-fabric-0.6.1+mc1.21.4.jar"
+
+[[mods.sodium-extra.deps]]
+name = "sodium"
+version = "mc1.21.4-0.6.10-fabric"
+providers = ["Modrinth"]
+
+[mods.spark]
+version = "1.10.121-fabric"
+server_side = true
+client_side = true
+
+[[mods.spark.source]]
+
+[mods.spark.source.Download]
+url = "https://cdn.modrinth.com/data/l6YH9Als/versions/X2sypdTL/spark-1.10.121-fabric.jar"
+sha1 = "dae3b27664cad09e628b2d97c89f8a0d01f1edb0"
+sha512 = "f164ca7dad6baf5e33b3a1b355319ddad264f2b27d2592fd80581d9dcaf35978149d005a159f1e0a116162a31dad4dc553cbaf3af70cc10285f63ca367fe4de5"
+filename = "spark-1.10.121-fabric.jar"
+
+[mods.terralith]
+version = "2.5.8"
+server_side = true
+client_side = true
+
+[[mods.terralith.source]]
+
+[mods.terralith.source.Download]
+url = "https://cdn.modrinth.com/data/8oi3bsk5/versions/MuJMtPGQ/Terralith_1.21.x_v2.5.8.jar"
+sha1 = "bee0cfb1a8cd4bf3d96bccea224fb45d74de9085"
+sha512 = "f862ed5435ce4c11a97d2ea5c40eee9f817c908f3223b5fd3e3fff0562a55111d7429dc73a2f1ca0b1af7b1ff6fa0470ed6efebb5de13336c40bb70fb357dd60"
+filename = "Terralith_1.21.x_v2.5.8.jar"
